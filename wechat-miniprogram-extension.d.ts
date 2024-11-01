@@ -1,5 +1,5 @@
 /**
- * fixme: miniprogram-api-typings 未加入的新api临时声明，更新后可删除
+ * fixme: miniprogram-api-typings 未加入的新api临时声明，更新后可删除 aa
  */
 declare namespace WechatMiniprogram {
   interface Wx {
